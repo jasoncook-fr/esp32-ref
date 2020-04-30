@@ -1,0 +1,1 @@
+Codes here are to add to the totality of the codes found in the precedant folder. Be sure to rename ``main_fusion2ble.py`` so as to replace ``main.py`` on the ESP32. Prepare Raspberry pi codes apart from this
